@@ -24,8 +24,7 @@ To transition from a flat, unoptimized dataset to a high-performance analytics s
 The structural mapping between tables can be reviewed directly via the verbatim file **ERD Diagram.jpg**:
 
 <p align="center">
-  <img ![Uploading ERD Diagram.png…]()
-/>
+  <img src="ERD Diagram.png" alt="ERD Diagram" width="85%"/>
 </p>
 
 ### 🔗 Architectural Components
